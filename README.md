@@ -1,3 +1,9 @@
+## Associated publication
+
+**Coffea comparative genomics reveals subgenome-associated expansion and diversification of biosynthetic gene clusters.**
+
+[Read the article](https://doi.org/10.1139/gen-2026-0007)
+
 ## Repository structure
 
 ### Annotation and preprocessing
